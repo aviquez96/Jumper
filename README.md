@@ -4,15 +4,10 @@ This is a 2D side-scrolling platformer game where the character encounters and i
 ## Presentational Images
 The following section will present some snapshots of the game while running
 
-##### Developing Phase
-![](Images/Image1.png)
 ##### Start Screen
+![](smages/Image1.png)
+##### Mid Level
 ![](Images/Image2.png)
-##### Level 1 Snapshot
+##### Different Levels
 ![](Images/Image3.png)
-##### Level 2 Snapshot
-![](Images/Image4.png)
-##### Climbing Stairs Animation
-![](Images/Image5.png)
-##### Jumping Blocks Animmation
-![](Images/Image6.png)
+
